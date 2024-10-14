@@ -7,7 +7,7 @@ Programming language : Python
 
 Year : 2nd CSE
 
-Note : **REMOVE COMMENTS BEFORE USING IT**
+Note : **REMOVE COMMENTS BEFORE USING THE CODE**
 ___________________________________
 ## Button Click Counter
 
