@@ -1,5 +1,33 @@
+## Hi there....
 
-<h2 align="left">Hi there 👋<br>I'm Harish Kumar — a Junior Developer and Engineering Student with an interest in software development and tech innovation.</h2>
+I'm Harish Kumar 
+
+  *   Junior Developer 
+  * Engineering Student 
+  * Tech Enthusiast
+  * thats all...
+
+## Skills 
+  
+ # Programming Languages: 
+  * C 
+  * C++
+  * Java
+  * Python
+  * JavaScript
+  * TypeScript
+  * Bash
+
+# Web Development: 
+* HTML5 
+* CSS3
+* React
+
+# Other Skills: 
+* Linux 
+* Cyber security
+
+
 
 ###
 
@@ -25,8 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aris0tm/aris0tm/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
@@ -48,3 +74,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aris0tm&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="Stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aris0tm&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
 </div>
+
