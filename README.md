@@ -1,6 +1,6 @@
 ## Hi there....
 
-**I'm aris ** 
+**I'm aris** 
 * Junior Developer  
 *  Engineering Student   
 *  Tech Enthusiast 
