@@ -18,13 +18,6 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/aris0tm/count.svg?"  />
-</div>
-
-###
 
 ## **Skills :**
 
